@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello, World!<br><br>Hi, I'm Krishna Raj — an enthusiastic Java developer.<br>I'm passionate about problem-solving, writing clean code, and being part of communities that help each other grow.  <br><br>🧠 Currently Learning:<br>🧩 Advanced Java concepts,<br>🧩 Data Structures & Algorithms (DSA) through LeetCode<br><br>🎯 Find Me Online:<br>🧩 LeetCode: [leetcode.com/your-username](https://leetcode.com/Krishna_Raj_B)<br><br>🌱 Always learning. Always building. Always growing.<br>
+👋 Hello, World!<br><br>Hi, I'm Krishna Raj — an enthusiastic Java developer.<br>I'm passionate about problem-solving, writing clean code, and being part of communities that help each other grow.  <br><br>🧠 Currently Learning:<br>🧩 Advanced Java concepts,<br>🧩 Data Structures & Algorithms (DSA) through LeetCode<br><br>🎯 Find Me Online:<br>🧩 LeetCode: [leetcode.com/Krishna_Raj_B](https://leetcode.com/Krishna_Raj_B)<br><br>🌱 Always learning. Always building. Always growing.<br>
 
 
 ## 🌐 Socials:
