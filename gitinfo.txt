@@ -1,0 +1,44 @@
+//how to use git hub
+set up cmdgit()
+{
+git config --global user.name "Coder-X-12"
+git config --global user.email "bkr.2007@yahoo.com"
+}
+action vsctogit()
+{
+git clone "link of the folder in git hub"
+// adding to stagging area
+git add file_name.ext
+git status folder_name
+git commit -m "file_name.ext added file"
+git push origin folder_name
+// updating changes in file
+git add file_name.ext
+git commit -m "modified file_name.ext file"
+git push origin folder_name
+// to make a folder back place
+git cd ..
+// after creating a folder inside git folder u have to make that link with github by :
+git commit -m "created file_name"
+git init
+}
+}
+action gittovsc()
+{
+//changes that happened in github will be updated to vs code by this command 
+git pull
+}
+//creating a new repositary in a git folder ...(branch stuffs...)
+{
+git init
+git remote add origin https://github.com/Coder-X-12/Projecthtml.git
+git branch -M main
+git push origin main
+// it will list done the branches in the repositary :
+git branch -a
+// command switch between branches :
+git checkout branch_name
+// mergin a branch from a branch :
+git merge branch_name
+}
+// Bossy Pull request ..
