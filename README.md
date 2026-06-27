@@ -1,10 +1,6 @@
-<div align="center">
-
 ```
 krishna@arch-linux:~$ neofetch
 ```
-
-</div>
 
 ```
                    -`                    krishna@arch-linux
@@ -73,20 +69,22 @@ $ contact --info
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/jZTS62sb)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bkr.2007@yahoo.com)
 
-```text
+```bash
 $ github --stats                             
 ```
 
+
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnaX12&layout=compact&theme=github_dark&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=KrishnaX12&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnaX12&layout=compact&theme=github_dark&hide_border=true"/>
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=KrishnaX12&theme=github-dark-blue&hide_border=true" />
-
 </div>
 
-```
+
+```bash
 krishna@arch-linux:~$ █
 ```
