@@ -8,7 +8,7 @@ krishna@arch-linux:~$ neofetch
                  `ooo/                   OS: Arch Linux x86_64
                 `+oooo:                  Role: EEE Student @ SKCT
                `+oooooo:                 Focus: MERN Stack
-               -+oooooo+:                Languages: Java, C++
+               -+oooooo+:                Languages: Java, C++, Lua
              `/:-:++oooo+:               Learning: DSA, OS, Linux Internals
             `/++++/+++++++:              Editor: VS Code
            `/++++++++++++++:             Shell: bash, zsh
