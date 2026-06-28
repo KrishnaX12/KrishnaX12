@@ -84,6 +84,17 @@ $ github --stats
 
 </div>
 
+```bash
+$ leetcode --stats
+```
+
+<div align = "center">
+
+  ![LeetCode Stats](https://leetcard.jacoblin.cool/Krishna_Raj_B)
+
+<br>
+
+</div>
 
 ```bash
 krishna@arch-linux:~$ █
