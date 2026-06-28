@@ -92,8 +92,6 @@ $ leetcode --stats
 
   ![LeetCode Stats](https://leetcard.jacoblin.cool/Krishna_Raj_B)
 
-<br>
-
 </div>
 
 ```bash
