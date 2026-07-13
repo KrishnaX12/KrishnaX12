@@ -72,15 +72,12 @@ $ contact --info
 ```bash
 $ github --stats                             
 ```
-
-
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=KrishnaX12&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KrishnaX12&layout=compact&theme=tokyonight)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnaX12&layout=compact&theme=github_dark&hide_border=true"/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=KrishnaX12&theme=tokyonight)](https://git.io/streak-stats)
 
-<br>
 
 </div>
 
