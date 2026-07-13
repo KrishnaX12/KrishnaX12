@@ -74,9 +74,9 @@ $ github --stats
 ```
 <div align="center">
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KrishnaX12&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KrishnaX12&layout=compact&theme=dark)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=KrishnaX12&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=KrishnaX12&theme=dark)](https://git.io/streak-stats)
 
 
 </div>
